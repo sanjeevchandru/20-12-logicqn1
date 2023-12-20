@@ -1,6 +1,6 @@
 let aa=12,b=8,c=-5;
 document.write("Find greatest number"+"<br>")
-<document.write("The number are " +aa +", "+b+", "+c+"<br>")
+<document.write("The numbers are " +aa +", "+b+", "+c+"<br>")
 if(aa>b && aa>c){
     document.write(aa+ " is greater")
 }
